@@ -18,7 +18,7 @@ int main()
         cout << "Jest to liczba ujemna" << endl;
     }
 
-    else 
+    if (a ==0) 
     {
         cout << "Wpisales 0" << endl;
     }
